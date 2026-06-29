@@ -1,4 +1,4 @@
-## Technologies
+# Technologies
 
 - WordPress
 - WooCommerce
@@ -8,3 +8,16 @@
 - JavaScript
 - Git
 - GitHub
+
+## SEO
+
+- Technical SEO
+- Clean URL Structure
+- Optimized Images
+- Responsive Design
+
+## Performance
+
+- Lightweight Custom Theme
+- Optimized Assets
+- Mobile First Design
