@@ -1,15 +1,14 @@
+# Features
 
-
-## Features
-
-- Custom WooCommerce Theme
-- Mobile Responsive Design
-- Fast Loading Performance
-- Optimized Product Pages
-- Custom Header & Footer
+- Custom WooCommerce Store
+- Custom Product Layout
+- Product Categories
+- Mobile Responsive
+- Persian RTL
+- Fast Performance
+- SEO Optimization
+- Modern UI
+- Easy Navigation
 - Custom Homepage
-- SEO Friendly Structure
-- Persian RTL Support
-- Category-based Product Layout
-- Product Filtering
-- Optimized Images
+- Custom Header
+- Custom Footer
