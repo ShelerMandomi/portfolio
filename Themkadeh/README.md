@@ -35,3 +35,32 @@ Themkadeh is a digital marketing and web development platform focused on helping
 ## Project Status
 
 Active Development 🚀
+## Persian Version
+
+### Mockup
+
+<p align="center">
+  <img src="./screenshots/themkadeh-mockup-fa.png" width="100%">
+</p>
+
+### Homepage
+
+<p align="center">
+  <img src="./screenshots/homepage-fa.png" width="100%">
+</p>
+
+---
+
+## English Version
+
+### Mockup
+
+<p align="center">
+  <img src="./screenshots/themkadeh-mockup-en.png" width="100%">
+</p>
+
+### Homepage
+
+<p align="center">
+  <img src="./screenshots/homepage-en.png" width="100%">
+</p>
