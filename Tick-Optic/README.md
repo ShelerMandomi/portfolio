@@ -46,3 +46,50 @@ Project screenshots are available inside the **screenshots** folder.
 ## Status
 
 Active Development 🚀
+# Tick Optic
+
+## Project Overview
+
+A custom WooCommerce eyewear e-commerce website focused on performance, user experience, and SEO.
+
+**Live Demo:** https://tickoptic.com
+
+---
+
+## Project Mockup
+
+<p align="center">
+  <img src="./screenshots/tick-optic-mockup.png" width="100%">
+</p>
+
+---
+
+## Website Preview
+
+<p align="center">
+  <img src="./screenshots/tick-optic-pages.png" width="100%">
+</p>
+
+---
+
+## Technologies
+
+- WordPress
+- WooCommerce
+- PHP
+- HTML
+- CSS
+- JavaScript
+- SEO
+- Responsive Design
+
+---
+
+## Features
+
+- Modern UI/UX
+- Custom WooCommerce Theme
+- Responsive Design
+- SEO Optimized
+- Frame Finder Feature
+- Fast Loading
